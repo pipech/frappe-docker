@@ -37,7 +37,7 @@ See deployment for notes on how to deploy the project on a live system.
 
 #### 3. Basic Usage
 
-##### 3.1 Usage form Windows Host
+#### 3.1 Usage form Windows Host or  Linux Host
 
 1.	 Command to start all the containers
 
@@ -65,7 +65,7 @@ See deployment for notes on how to deploy the project on a live system.
         User : Administrator
         Pass : admin
         ```
-##### 3.2 Basic Usage from Linux Host
+#### 3.2 Basic Usage from Linux Host
 
 Make sure your current directory is frappe_docker
 
